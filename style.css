@@ -13,6 +13,7 @@ body{
     
     display: grid;
     grid-template-columns: repeat(2,1fr);
+    cursor: pointer;
 }
 .nav .logo{
     margin-left: 60px;
@@ -66,8 +67,8 @@ body{
 button{
     color: white;
     background: orangered;
-    height: 40px;
-    width: 95px;
+    height: 45px;
+    width: 100px;
     border: none;
     margin-left: 90px;
     margin-top: 20px;
